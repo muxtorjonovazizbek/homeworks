@@ -262,3 +262,18 @@ nav li a {
   color: #21243d;
   padding-top: 15px;
 }
+
+.home__btn {
+    width: 100px;
+    height: 50px;
+    background-color: #142850;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.home__btn a {
+    color: white;
+    
+}
